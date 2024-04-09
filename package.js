@@ -1,6 +1,6 @@
 Package.describe({
   name: 'jessedev:alpinejs',
-  version: '0.0.1',
+  version: '3.13.8',
   summary: 'Integrates Alpine.js into Meteor',
   git: 'https://github.com/Jessedev1/alpinejs',
   documentation: 'README.md'
